@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 <h3 align="center">A Passionate Python and Web Developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Data Structure & Algorithms.**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 👨‍💻 View my portfolio: [https://aditya-r01.github.io/Portfolio-website/](https://aditya-r01.github.io/Portfolio-website/)
 
